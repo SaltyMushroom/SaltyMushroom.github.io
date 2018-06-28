@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2018/05/13/WeekLaravel/</loc>
+    <loc>http://yoursite.com/2018/04/03/EnglishWords/</loc>
     
-    <lastmod>2018-06-12T13:16:37.238Z</lastmod>
+    <lastmod>2018-06-13T11:43:43.191Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite.com/2018/04/07/Hexo/</loc>
     
-    <lastmod>2018-06-12T11:33:57.165Z</lastmod>
+    <lastmod>2018-06-13T11:37:27.167Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2018/05/13/WeekLaravel/</loc>
+    
+    <lastmod>2018-06-12T13:16:37.238Z</lastmod>
     
   </url>
   
@@ -47,13 +54,6 @@
     <loc>http://yoursite.com/2018/04/07/highermathematics/</loc>
     
     <lastmod>2018-06-12T08:39:11.483Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2018/04/03/EnglishWords/</loc>
-    
-    <lastmod>2018-06-12T08:39:00.240Z</lastmod>
     
   </url>
   
